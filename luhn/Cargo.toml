@@ -1,0 +1,8 @@
+[package]
+name = "luhn"
+version = "0.0.0"
+
+[dependencies]
+num-traits="*"
+num = "0.1.36"
+itertools = "0.5.9"
